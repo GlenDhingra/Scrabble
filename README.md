@@ -1,10 +1,11 @@
 # Scrabble Game
 
-![Game Screenshot](Images/Image1.jpg)
-
 ## Project Overview
 
 This project is an online version of the popular word game, Scrabble, developed using Java, Applets, and Swings. In this implementation, players can create words from jumbled alphabets, following the rules of Scrabble. To enhance the gameplay experience, we have implemented a point system where points are allocated based on the validity of words according to a dictionary.
+
+
+![Game Screenshot](Images/Image1.jpg)
 
 ## Key Features
 
@@ -27,10 +28,10 @@ To add an element of competition and strategy, we have implemented a point syste
 
 4. **Challenge Friends:** Challenge your friends or play against the computer to test your Scrabble skills.
 
-![Game Screenshot](image2.jpg)
+![Game Screenshot](Images/Image2.jpg)
 
 ## Contact
 
-If you have any questions, suggestions, or would like to collaborate on this project, please feel free to reach out to us:
+If you have any questions, suggestions, or would like to collaborate on this project, please feel free to reach out to me:
 
 - Email: glendhingra27@gmail.com
