@@ -1,6 +1,6 @@
 # Scrabble Game
 
-![Game Screenshot](Images\Image1.jpg)
+![Game Screenshot](Images/Image1.jpg)
 
 ## Project Overview
 
